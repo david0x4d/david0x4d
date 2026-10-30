@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" role="img" aria-label="Tecnologías">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .in { opacity: 0; animation: in .7s ease-out forwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-12px); } to { opacity: 1; transform: translateX(0); } }
+    .line { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: draw 1.2s ease-out .3s forwards; }
+    @keyframes draw { to { transform: scaleX(1); } }
+  </style>
+  <text class="in" x="0" y="34" font-family="Consolas, Menlo, monospace" font-size="18" fill="#3fb950">01</text>
+  <text class="in" style="animation-delay:.15s" x="40" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#8b949e">Tecnologías</text>
+  <rect class="line" x="0" y="46" width="900" height="2" rx="1" fill="url(#accent)" opacity="0.7"/>
+</svg>
