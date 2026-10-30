@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="assets/hero.svg" width="100%" alt="David Martin Narváez — Estudiante de DAW y Máster en Ciberseguridad" />
 
-<!--
-**david0x4d/david0x4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<img src="assets/section-stack.svg" width="100%" alt="01 · Tecnologías" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/stack.svg" width="100%" alt="HTML5, Java, CSS3, XML, SQL, Linux y Git" />
+
+<br />
+
+<p align="center">
+  <a href="mailto:david23092004david@gmail.com"><img src="assets/btn-email.svg" height="52" alt="¿Hablamos?" /></a>
+</p>
